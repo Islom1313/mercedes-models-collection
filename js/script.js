@@ -473,6 +473,7 @@ window.addEventListener("DOMContentLoaded", () => {
     }
 
     const obj = "Islom";
+    const objjj = "Islom";
 });
 
 // ``

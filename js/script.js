@@ -472,8 +472,10 @@ window.addEventListener("DOMContentLoaded", () => {
         }, 4000);
     }
 
-    const obj = "Islom";
-    const objjj = "Islom";
+    const obbb = {
+        name: "Islom",
+        age: 30,
+    };
 });
 
 // ``

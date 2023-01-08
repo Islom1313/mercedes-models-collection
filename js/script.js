@@ -177,7 +177,7 @@ window.addEventListener("DOMContentLoaded", () => {
         `The 2021 Mercedes-Benz C-Class finishes in the top half of our
     luxury small car rankings. It's powerful and upscale, but it has
     so-so handli...`,
-        100,
+        30000,
         ".menu .container"
         // 'red',
         // 'black'
@@ -189,7 +189,7 @@ window.addEventListener("DOMContentLoaded", () => {
         `The 2021 Mercedes-Benz C-Class finishes in the top half of our
     luxury small car rankings. It's powerful and upscale, but it has
     so-so handli...`,
-        100,
+        1000,
         ".menu .container"
     ).render();
     new CarCard(
@@ -199,7 +199,7 @@ window.addEventListener("DOMContentLoaded", () => {
         `The 2021 Mercedes-Benz C-Class finishes in the top half of our
     luxury small car rankings. It's powerful and upscale, but it has
     so-so handli...`,
-        100,
+        10000,
         ".menu .container"
     ).render();
 

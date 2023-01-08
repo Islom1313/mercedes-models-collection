@@ -81,7 +81,7 @@ window.addEventListener("DOMContentLoaded", () => {
     window.addEventListener("scroll", showMyModalByScroll);
 
     // DATA
-    const deadline = "2021-12-12";
+    const deadline = "2023-04-12";
 
     function getTime(endtime) {
         const total = Date.parse(endtime) - Date.parse(new Date()),

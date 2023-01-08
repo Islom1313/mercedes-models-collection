@@ -1,4 +1,4 @@
 const obbb = {
-        name: "Islom",
-        age: 30,
-    };
+    name: "Islom",
+    age: 30,
+};

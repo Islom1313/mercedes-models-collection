@@ -471,11 +471,6 @@ window.addEventListener("DOMContentLoaded", () => {
             closeModal();
         }, 4000);
     }
-
-    const obbb = {
-        name: "Islom",
-        age: 30,
-    };
 });
 
 // ``

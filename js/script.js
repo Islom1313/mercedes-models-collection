@@ -447,7 +447,7 @@ window.addEventListener("DOMContentLoaded", () => {
                 });
         });
     }
-
+    // thanksgiving modal
     function showThanksModal(message) {
         const prevModalDialog = document.querySelector(".modal__dialog");
 

@@ -43,7 +43,7 @@ window.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    // MODAL
+    // MODAL function
     const allModalBtn = document.querySelectorAll("[data-modal]"),
         modal = document.querySelector(".modal");
 

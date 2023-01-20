@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", () => {
-    // LOADER
+    // LOADER function
     const loader = document.querySelector(".loader");
     setTimeout(function() {
         loader.style.opacity = 0;
